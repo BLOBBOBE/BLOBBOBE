@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BLOBBOBE
+- 👀 I’m interested in Networking and cyber security 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any of my projects 
+- 📫 You can reach me on discor at BLOB_BOBE#8776
