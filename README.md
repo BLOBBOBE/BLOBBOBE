@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blobbobe&label=Profile%20views&color=0e75b6&style=flat" alt="blobbobe" /> </p>
 
-- 🌱 I’m currently learning **Golang and C#**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me **On Discord: BLOB_BOBE#8776**
+- 📫 How to reach me **On Discord: VVV._.**
 
 - ⚡ Fun fact **I live in Canada**
 
